@@ -1,5 +1,5 @@
 # counter-timer
-<h3>It has two applications which can be toggled using button at top right corner of the UI</h3>
+<h3>It has two applications which can be toggled using button at top right corner of the <a href = "https://vaibhav-patil07.github.io/counter-timer/">UI</a></h3>
 <ul>
     <li>Counter</li>
     <li>Timer</li>
